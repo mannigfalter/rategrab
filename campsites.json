@@ -1,0 +1,128 @@
+[
+  {
+    "code": "ITJUL",
+    "name": "marina-julia-family-camping-village",
+    "country": "italien",
+    "region": "kuste-adria",
+    "lastUpdate": "2025-07-03T02:04:41.092Z"
+  },
+  {
+    "code": "HRLAN",
+    "name": "valamar-camping-lanterna",
+    "country": "kroatien",
+    "region": "istrien",
+    "lastUpdate": "2025-07-02T20:05:06.866Z"
+  },
+  {
+    "code": "ATBEL",
+    "name": "camping-bella-austria",
+    "country": "oesterreich",
+    "region": "steiermark",
+    "lastUpdate": "2025-07-02T04:03:21.102Z"
+  },
+  {
+    "code": "HRUMA",
+    "name": "camping-park-umag",
+    "country": "kroatien",
+    "region": "istrien",
+    "lastUpdate": "2025-07-03T04:04:24.691Z"
+  },
+  {
+    "code": "HRSOL",
+    "name": "fkk-solaris-camping-resort",
+    "country": "kroatien",
+    "region": "istrien",
+    "lastUpdate": "2025-07-03T06:02:24.807Z"
+  },
+  {
+    "code": "HRBIJ",
+    "name": "camping-bijela-uvala",
+    "country": "kroatien",
+    "region": "istrien",
+    "lastUpdate": "2025-07-03T08:03:52.589Z"
+  },
+  {
+    "code": "HRBIV",
+    "name": "camping-bi-village",
+    "country": "kroatien",
+    "region": "istrien",
+    "lastUpdate": "2025-07-03T10:04:38.589Z"
+  },
+  {
+    "code": "ESCAN",
+    "name": "camping-cala-canyelles",
+    "country": "spanien",
+    "region": "costa-brava",
+    "lastUpdate": "2025-07-03T12:02:50.298Z"
+  },
+  {
+    "code": "ESELP",
+    "name": "camping-el-pla-de-mar",
+    "country": "spanien",
+    "region": "costa-brava",
+    "lastUpdate": "2025-07-01T14:07:16.487Z"
+  },
+  {
+    "code": "ESPLA",
+    "name": "camping-playa-brava",
+    "country": "spanien",
+    "region": "costa-brava",
+    "lastUpdate": "2025-07-01T16:03:55.003Z"
+  },
+  {
+    "code": "ITLAG",
+    "name": "camping-laguna-village",
+    "country": "italien",
+    "region": "kuste-adria",
+    "lastUpdate": "2025-07-01T18:04:50.168Z"
+  },
+  {
+    "code": "ITSAV",
+    "name": "camping-casavio",
+    "country": "italien",
+    "region": "kuste-adria",
+    "lastUpdate": "2025-07-01T20:02:20.617Z"
+  },
+  {
+    "code": "ITMAR",
+    "name": "camping-mare-pineta",
+    "country": "italien",
+    "region": "kuste-adria",
+    "lastUpdate": "2025-07-01T22:03:35.255Z"
+  },
+  {
+    "code": "ITDUE",
+    "name": "camping-due-laghi-levico-family-collection",
+    "country": "italien",
+    "region": "lake-levico",
+    "lastUpdate": "2025-07-02T00:05:28.412Z"
+  },
+  {
+    "code": "ITEDE",
+    "name": "camping-eden",
+    "country": "italien",
+    "region": "gardasee",
+    "lastUpdate": "2025-07-02T02:03:15.604Z"
+  },
+  {
+    "code": "ITCIS",
+    "name": "camping-cisano-san-vito",
+    "country": "italien",
+    "region": "gardasee",
+    "lastUpdate": "2025-07-02T06:06:13.079Z"
+  },
+  {
+    "code": "ITBEL",
+    "name": "camping-bella-italia",
+    "country": "italien",
+    "region": "gardasee",
+    "lastUpdate": "2025-07-02T08:04:53.973Z"
+  },
+  {
+    "code": "ITVER",
+    "name": "camping-baia-verde",
+    "country": "italien",
+    "region": "gardasee",
+    "lastUpdate": "2025-07-02T10:03:39.993Z"
+  }
+]
